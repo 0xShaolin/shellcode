@@ -14,5 +14,6 @@ then
 else
 	echo "architecture not found!"
 	exit
+fi
 
 echo "use command shellcode to create!"
